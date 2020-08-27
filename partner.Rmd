@@ -1,0 +1,29 @@
+---
+title: "partner"
+author: "Ryan Lode"
+date: "8/27/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Lab 1
+
+
+Your (the Partner’s) full name and GitHub username.
+
+    Full name: Ryan Lode
+
+    GitHub username: r-lode
+
+What did the Owner do in the most recent commit? What is the commit ID?
+
+    Initial commit
+
+    commit ID: 4e8c602d1372d7f27c5b69b1bc282a22803d775b
+
+Knit the Owner’s hw1.Rmd. Are you able to do so without error? If you cannot, what errors did you counter?
+
+    No error
